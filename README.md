@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### ¡Hola! 🤗
 
-Soy **Fiorella**, estudiante de Ingeniería en Sistemas en la Universidad ORT Uruguay, con un gran interés por la programación y el diseño. 💻🎨
+Soy **Fiorella**, estudiante de segundo año de Ingeniería en Sistemas en la Universidad ORT Uruguay, con un gran interés por la programación y el diseño. 💻🎨
 
 - 🧠 Actualmente estoy ampliando mis habilidades en diversos lenguajes como Java, C++ y JavaScript, entre otros.
 - 🌱 Estoy dando mis primeros pasos en GitHub, en busca de oportunidades para aplicar mis conocimientos y aprender de otros desarrolladores.
