@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Soy **Fiorella**, estudiante de segundo año de Ingeniería en Sistemas en la Universidad ORT Uruguay, con un gran interés por la programación y el diseño. 💻🎨
 
-- 🧠 Actualmente estoy ampliando mis habilidades en diversos lenguajes como Java, C++ y JavaScript, entre otros.
+- 🧠 Actualmente estoy trabajando en mejorar mis habilidades en Java, C++ y JavaScript.
 - 🌱 Estoy dando mis primeros pasos en GitHub, en busca de oportunidades para aplicar mis conocimientos y aprender de otros desarrolladores. 
 - 🎨 En mi tiempo libre, disfruto escuchando música y dibujando. También me interesa el diseño, por lo que disfruto aprendiendo cómo crear elementos visualmente atractivos con la tecnología.
 - 💬 Si querés conectar también estoy en [LinkedIn](https://www.linkedin.com/in/fiorella-rohner/) 🤗.
