@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 ----------
 
-### ¡Hola! 🤗
+
+## ¡Hola! 🤗
 
 Soy **Fiorella**, estudiante de Ingeniería en Sistemas en la Universidad ORT Uruguay, con un gran interés por la programación y el diseño. 💻🎨
 
