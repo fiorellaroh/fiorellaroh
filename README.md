@@ -27,7 +27,7 @@ Soy **Fiorella**, estudiante de Ingeniería en Sistemas en la Universidad ORT Ur
 
 <!--- 🧠 Actualmente trabajando en [calculadora de horarios](url).
  - 🌱 Estoy dando mis primeros pasos en GitHub, en busca de oportunidades para aplicar mis conocimientos y aprender de otros desarrolladores. -->
-- 🎨 Disfruto mi tiempo libre escuchando música y diseñando gráficos. También me divierte aprender cómo crear elementos visualmente atractivos con la tecnología.
+- 🎨 Disfruto de mi tiempo libre diseñando gráficos y aprendiendo a crear elementos visualmente atractivos con la tecnología.
 - 💬 También estoy en [LinkedIn](https://www.linkedin.com/in/fiorella-rohner/) 🤗.
 
 ----------
